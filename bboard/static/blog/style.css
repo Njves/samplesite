@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 8px;
+}
+
+#message {
+    width: 50%;
+    height: 150px;
+    font-size: 14px;
+    word-break: break-word;
+}
+
+#send_button {
+    
+}
